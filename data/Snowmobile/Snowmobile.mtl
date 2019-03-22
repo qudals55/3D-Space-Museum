@@ -1,0 +1,62 @@
+# 
+# 
+
+newmtl Snowmobilemat1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Snowmobile_mat1_d.tga
+
+newmtl Snowmobilemat2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Snowmobile_mat2_d.tga
+
+newmtl Snowmobilemat3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Snowmobile_mat3_d.tga
+
+newmtl Snowmobilemat4
+Ns 96.078431
+Ka 1.500000 0.500000 0.500000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Snowmobile_mat4_d.tga
+
+newmtl Snowmobilemat5
+Ns 96.078431
+Ka 1.500000 0.500000 0.500000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Snowmobile_mat5_d.tga
+
+newmtl Snowmobilemat6
+Ns 96.078431
+Ka 1.500000 0.500000 0.500000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Snowmobile_mat6_d.tga

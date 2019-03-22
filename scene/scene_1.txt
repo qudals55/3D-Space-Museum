@@ -1,0 +1,28 @@
+#SCENE 1
+#o - character object
+#ob - building object
+# name				position	scale	rotate	texture
+o ./data/Rock1/Rock1.obj 0 0 0 1 0
+t Mickey_Mouse_D.tga,Mickey_Mouse_N.tga
+o ./data/Millennium_Falcon/Millennium_Falcon.obj -150 170 -150 0.28 50
+t Millennium_Falcon_Bottom_D.tga,Millennium_Falcon_Bottom_S.tga,Millennium_Falcon_Bottom_N.tga
+o ./data/Drone/Drone.obj 200 170 -200 50 -40
+t Drone_D.tga,Drone_N.tga,Drone_S.tga
+o ./data/Earth/Earth.obj 38.5 150 30.5 80 0.5
+o ./data/Iron_Man/Iron_Man.obj 39 192 36 20 -20
+t Iron_Man_D.tga
+o ./data/UFO/UFO.obj 242 150 140 4.5 -4.5
+t UFO_N.tga
+o ./data/Batboat/Batboat.obj -200 160 150 7.5 140
+t Batboat_D.tga
+o ./data/chest/Chestburster_capsule_chair.obj 10 140 -200 35 0
+t Chestburster_capsule_chair_mat1_D.tga
+ob ./data/wall.obj		-300 -0.5 0	6 	90	CinderblockSloppy0005_1_S.jpg
+ob ./data/wall.obj		300 -0.5 0	6 	-90	CinderblockSloppy0005_1_S.jpg
+ob ./data/wall.obj		0 -0.5 -300	6	0	CinderblockSloppy0005_1_S.jpg
+ob ./data/ground.obj            0 -1.5 -1.8	6	0	ground.jpg
+ob ./data/museum.obj		0 0 300		6	0	meseum2.jpg
+c ./data/Revolver/Revolver.obj       0  15  2 70 45 Revolver_D.tga
+h ./data/Bear_Brown/Bear_Brown.obj -1 1 -1 20 0 Bear_D.tga  Bear_Eye_D.tga   Bear_Fur_D.tga
+h ./data/Godzilla/Godzilla.obj -1 1 -1 0.3 0  Godzilla_D.tga
+
